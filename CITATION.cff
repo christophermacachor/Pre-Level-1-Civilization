@@ -1,6 +1,26 @@
-File,Purpose,Download
-**ScalarCoherenceTheorem.lean**,Lean 4 formalization — the theorem itself,[ScalarCoherenceTheorem.lean](sandbox:///mnt/agents/output/ScalarCoherenceTheorem.lean)
-**ScalarCoherenceTheorem.md**,Professional mathematical exposition with embedded Lean code,[ScalarCoherenceTheorem.md](sandbox:///mnt/agents/output/ScalarCoherenceTheorem.md)
-**OpenEMS\_AwgController.java**,AWG scalar coherence controller,[OpenEMS\_AwgController.java](sandbox:///mnt/agents/output/OpenEMS_AwgController.java)
-**OpenEMS\_HydroController.java**,Inline hydro scalar coherence controller,[OpenEMS\_HydroController.java](sandbox:///mnt/agents/output/OpenEMS_HydroController.java)
-**InfluxDB\_ScalarSchema.md**,Time-series schema for Federation Node telemetry,[InfluxDB\_ScalarSchema.md](sandbox:///mnt/agents/output/InfluxDB_ScalarSchema.md)
+cff-version: 1.2.0
+title: "Pre Civilization 1"
+message: "If you use this work, please cite it using the metadata below."
+type: software
+authors:
+  - family-names: Macachor
+    given-names: Christopher
+    orcid: "https://orcid.org/0009-0008-0100-2856"
+doi: "10.5281/zenodo.21833162"
+date-released: "2026-08-07"
+version: "2026.8.1"
+abstract: >
+  Pre Civilization 1 establishes the scalar-field-first foundation for
+  multi‑pipeline coherence architecture, integrating formal Lean 4 proofs,
+  AWG controllers, hydro-coherence modules, and telemetry schema for
+  Federation Nodes. This release anchors the Scalar Coherence Theorem
+  and provides reproducible artifacts for research, engineering, and
+  civilization‑scale modeling.
+keywords:
+  - scalar coherence
+  - Macachor Scalar Absolute
+  - pre-civilization
+  - federation node
+  - coherence theorem
+  - Lean 4 formalization
+  - quantum ontology
