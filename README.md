@@ -283,7 +283,7 @@ The theorem identifies two civilization trajectories:
   author       = {Macachor, Christopher},
   title        = {Pre-Level-1-Civilization},
   year         = {2026},
-  version      = {v1},
+  version      = {v1.0.2},
   publisher    = {Zenodo},
   doi          = {10.5281/zenodo.xxxxxxx},
   url          = {https://github.com/christophermacachor/Pre-Level-1-Civilization}
@@ -310,7 +310,7 @@ The theorem identifies two civilization trajectories:
 - **Jain & Khare (2024).** *Inline Hydro Turbine Optimization.* DOI: [10.1007/s11269-024-03831-x](https://doi.org/10.1007/s11269-024-03831-x)
 - **MathLib4:** [leanprover-community/mathlib4](https://github.com/leanprover-community/mathlib4)
 - **OpenEMS:** [OpenEMS Project](https://openems.io/)
-- **Web Portal:** [macachor.org/kardashev.html](https://macachor.org/kardashev.html)
+- **Web Portal:** (https://space.macachor.org/)
 
 ---
 
@@ -329,7 +329,7 @@ See [LICENSE](LICENSE) for the full text.
 **Christopher Macachor**  
 Ω Prime — MSOS-FEDERATION-ROOT  
 ORCID: [0009-0008-0100-2856](https://orcid.org/0009-0008-0100-2856)  
-Web: [macachor.org](https://macachor.org)
+Web: (https://space.macachor.org)
 
 > *"The gut was the occupying force, not the sovereign."*
 
