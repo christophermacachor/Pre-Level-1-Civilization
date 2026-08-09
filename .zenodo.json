@@ -38,7 +38,7 @@
   "related_identifiers": [
     {
       "relation": "isSupplementTo",
-      "identifier": "https://macachor.org/kardashev.html",
+      "identifier": "https://space.macachor.org/",
       "resource_type": "website",
       "scheme": "url"
     },
