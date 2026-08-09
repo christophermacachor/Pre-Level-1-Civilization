@@ -1,64 +1,102 @@
 {
-  "metadata": {
-    "title": "Kardashev-Macachor Civilization Scale: Multi-Pipeline Scalar Coherence Theorem",
-    "upload_type": "software",
-    "description": "<p>A comprehensive scalar recasting of the Kardashev civilization scale integrating the Macachor Absolute scalar field geometric cosmology.</p>",
-    "creators": [
-      {
-        "name": "Macachor, Christopher",
-        "affiliation": "Ω-PRIME / MSOS-FEDERATION-ROOT",
-        "orcid": "0009-0008-0100-2856"
-      }
-    ],
-    "doi": "10.5281/zenodo.21856584",
-    "publication_date": "2026-08-07",
-    "version": "2026.8.1",
-    "contributors": [
-      {
-        "name": "Kardashev, Nikolai Semyonovich",
-        "affiliation": "Space Research Institute (IKI), Russian Academy of Sciences",
-        "type": "Researcher",
-        "orcid": ""
-      }
-    ],
-    "keywords": [
-      "Kardashev scale",
-      "scalar coherence",
-      "Macachor Absolute",
-      "multi-pipeline theorem",
-      "civilization advancement",
-      "MGDH Lagrangian",
-      "KIWF",
-      "CRHA",
-      "dark pipeline",
-      "awakening pipeline",
-      "Huawei folding",
-      "inline turbine",
-      "MEC currency",
-      "hexagonal satellite",
-      "Lean 4",
-      "formal verification",
-      "OpenEMS",
-      "Libre Solar",
-      "quantum governance",
-      "Type I civilization"
-    ],
-    "license": "AGPL-3.0",
-    "language": "eng",
-    "access_right": "open",
-    "related_identifiers": [
-      {
-        "relation": "isSupplementTo",
-        "identifier": "https://macachor.org/kardashev.html",
-        "resource_type": "website",
-        "scheme": "url"
-      },
-      {
-        "relation": "references",
-        "identifier": "10.1007/s11269-024-03831-x",
-        "resource_type": "publication-article",
-        "scheme": "doi"
-      },
+  "title": "Pre-Level-1-Civilization",
+  "upload_type": "software",
+  "description": "<p>A comprehensive scalar recasting of the Kardashev civilization scale integrating the Macachor Absolute scalar field geometric cosmology.</p>",
+  "creators": [
+    {
+      "name": "Macachor, Christopher",
+      "affiliation": "Ω-PRIME / MSOS-FEDERATION-ROOT",
+      "orcid": "0009-0008-0100-2856"
+    }
+  ],
+  "publication_date": "2026-08-07",
+  "version": "v1",
+
+  "contributors": [
+    {
+      "name": "Kardashev, Nikolai Semyonovich",
+      "affiliation": "Space Research Institute (IKI), Russian Academy of Sciences",
+      "type": "Researcher",
+      "orcid": ""
+    }
+  ],
+
+  "keywords": [
+    "Kardashev scale",
+    "scalar coherence",
+    "Macachor Absolute",
+    "multi-pipeline theorem",
+    "civilization advancement",
+    "MGDH Lagrangian",
+    "KIWF",
+    "CRHA",
+    "dark pipeline",
+    "awakening pipeline",
+    "Huawei folding",
+    "inline turbine",
+    "MEC currency",
+    "hexagonal satellite",
+    "Lean 4",
+    "formal verification",
+    "OpenEMS",
+    "Libre Solar",
+    "quantum governance",
+    "Type I civilization"
+  ],
+
+  "license": "AGPL-3.0",
+  "language": "eng",
+  "access_right": "open",
+
+  "related_identifiers": [
+    {
+      "relation": "isSupplementTo",
+      "identifier": "https://macachor.org/kardashev.html",
+      "resource_type": "website",
+      "scheme": "url"
+    },
+    {
+      "relation": "references",
+      "identifier": "10.1007/s11269-024-03831-x",
+      "resource_type": "publication-article",
+      "scheme": "doi"
+    },
+    {
+      "relation": "isCompiledBy",
+      "identifier": "https://github.com/leanprover-community/mathlib4",
+      "resource_type": "software",
+      "scheme": "url"
+    }
+  ],
+
+  "communities": [
+    { "identifier": "quantum-information" },
+    { "identifier": "open-source-energy" },
+    { "identifier": "scalar-field-theory" }
+  ],
+
+  "subjects": [
+    {
+      "term": "Quantum Information",
+      "identifier": "https://id.loc.gov/authorities/subjects/sh2002007959.html",
+      "scheme": "url"
+    },
+    {
+      "term": "Energy Management",
+      "identifier": "https://id.loc.gov/authorities/subjects/sh85043176.html",
+      "scheme": "url"
+    },
+    {
+      "term": "Civilization Studies",
+      "identifier": "https://id.loc.gov/authorities/subjects/sh85026371.html",
+      "scheme": "url"
+    }
+  ],
+
+  "method": "Scalar field geometric cosmology, formal theorem proving (Lean 4), open-source energy system integration, infrastructure coherence analysis",
+
+  "notes": "This release includes: (1) Updated kardashev.html with Dark Pipeline vs. Awakening Pipeline analysis, (2) Multi-Pipeline Scalar Coherence Theorem formalized in Lean 4, (3) OpenEMS controller modules for AWG and inline hydro, (4) InfluxDB scalar field schema, (5) MEC currency specification. The Φ669 signature has been repositioned to omega-prime.html (identity codex) per scalar charter coherence audit."
+}
       {
         "relation": "isCompiledBy",
         "identifier": "https://github.com/leanprover-community/mathlib4",
