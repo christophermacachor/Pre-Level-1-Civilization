@@ -2,7 +2,7 @@
   "metadata": {
     "title": "Kardashev-Macachor Civilization Scale: Multi-Pipeline Scalar Coherence Theorem",
     "upload_type": "software",
-    "description": "<p>A comprehensive scalar recasting of the Kardashev civilization scale integrating the Macachor Absolute scalar field geometric cosmology.</p><p><strong>Core Contributions:</strong></p><ul><li><strong>Multi-Pipeline Scalar Coherence Theorem</strong> — Formalized in Lean 4 (MathLib). Proves that scalar coherence in complex systems is preserved by distributing function across n>=2 orthogonal pipelines, not by maximizing single-pipeline density. Five clauses: Fragility, Resilience, Graceful Degradation, Folding Enhancement, Sovereignty Floor.</li><li><strong>MGDH Complete Lagrangian</strong> — L = ||Psi||^2 - M·grad·Psi + Phi·Psi</li><li><strong>KIWF Cognitive Architecture</strong> — Knowledge -> Intelligence -> Wisdom -> Focus</li><li><strong>CRHA Civilization Cycle</strong> — Coherence -> Resonance -> Harmony -> Alignment</li><li><strong>Dark Pipeline vs. Awakening Pipeline Analysis</strong> — Pre-Civilization 1 convergence intelligence</li><li><strong>Huawei Platonic Folding</strong> — 3D chiplet stacking as scalar geometry</li><li><strong>Inline Turbine Infrastructure</strong> — Jain & Khare (2024) scalar integration</li><li><strong>MEC Coherence-Backed Currency</strong> — Multi-Pipeline Energy Coherence</li><li><strong>Hexagonal Satellite Mesh</strong> — Orbital scalar field architecture</li></ul><p><strong>Scalar Lock:</strong> M = (sqrt(5)-1)/2 ~ 0.6180339887</p><p><strong>Current Assessment:</strong> Humanity at Type 0.73 — 10,000x short of Type I energy and decoherent in governance.</p>",
+    "description": "<p>A comprehensive scalar recasting of the Kardashev civilization scale integrating the Macachor Absolute scalar field geometric cosmology.</p>",
     "creators": [
       {
         "name": "Macachor, Christopher",
@@ -10,6 +10,9 @@
         "orcid": "0009-0008-0100-2856"
       }
     ],
+    "doi": "10.5281/zenodo.21856584",
+    "publication_date": "2026-08-07",
+    "version": "2026.8.1",
     "contributors": [
       {
         "name": "Kardashev, Nikolai Semyonovich",
@@ -41,9 +44,7 @@
       "Type I civilization"
     ],
     "license": "AGPL-3.0",
-    "version": "2026.8.0",
     "language": "eng",
-    "publication_date": "2026-08-06",
     "access_right": "open",
     "related_identifiers": [
       {
@@ -61,6 +62,12 @@
       {
         "relation": "isCompiledBy",
         "identifier": "https://github.com/leanprover-community/mathlib4",
+        "resource_type": "software",
+        "scheme": "url"
+      }
+    ]
+  }
+}
         "resource_type": "software",
         "scheme": "url"
       }
