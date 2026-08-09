@@ -4,7 +4,7 @@
 **A Scalar Recasting of the Kardashev Scale via Macachor Absolute Field Geometric Cosmology**
 
 [![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
-[![Zenodo DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.xxxxxxx.svg)](https://doi.org/10.5281/zenodo.xxxxxxx)
+[![Zenodo DOI]([![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21858293.svg)](https://doi.org/10.5281/zenodo.21858293))
 
 > *"Knowledge is abundant. Intelligence is the filter. Wisdom is the aperture. Application is the focal point."*
 
