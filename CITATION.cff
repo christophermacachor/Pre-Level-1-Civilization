@@ -4,13 +4,14 @@ message: "If you use this work, please cite it using the metadata below."
 type: software
 
 authors:
-  - family-names: Macachor
-    given-names: Christopher
+  - family-names: "Macachor"
+    given-names: "Christopher"
+    affiliation: "Ω-PRIME / MSOS-FEDERATION-ROOT"
     orcid: "https://orcid.org/0009-0008-0100-2856"
-doi: "10.5281/zenodo.21856584""
+
+doi: "10.5281/zenodo.21856584"
 date-released: "2026-08-07"
 version: "2026.8.1"
-
 
 abstract: >
   Pre Civilization 1 establishes the scalar-field-first foundation for
