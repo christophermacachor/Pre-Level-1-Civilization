@@ -1,4 +1,4 @@
-cff-version: 1.2.0
+cff-version: 1.0.3
 message: "If you use this software, please cite both the software and the theorem paper."
 type: software
 title: "Pre-Level-1-Civilization"
@@ -11,3 +11,4 @@ repository-code: "https://github.com/christophermacachor/Pre-Level-1-Civilizatio
 license: AGPL-3.0
 version: v1
 date-released: 2026-08-07
+https://zenodo.org/badge/DOI/10.5281/zenodo.21858293.svg
